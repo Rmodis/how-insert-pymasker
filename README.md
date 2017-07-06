@@ -1,0 +1,2 @@
+# how-insert-pymasker
+Hallo, I find this pymasker description and download this package (only ArcMasker.zip). but in ArcGIS as you said i can not open it. what is wrong with this? It is need other file (Source code (zip) ) download it too , and how in Arcmap i insert it? becuase i cannot open this package and it is empty by creat new toolbox. and is it update for R studio or not?  I will appreciate if you help me. 
